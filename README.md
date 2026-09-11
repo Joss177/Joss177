@@ -21,7 +21,7 @@
 
 <br>
 
-- 🔭 Actualmente trabajo como **Desarrollador Backend Jr en TICA SOLUTIONS**
+- 🔭 Actualmente trabajo como **Desarrollador Backend**
 
 - 🌱 Aprendiendo y trabajando con **PHP (CakePHP), Spring Boot, Django y APIs REST**
 
