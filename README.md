@@ -21,13 +21,13 @@
 
 <br>
 
-- 🔭 Actualmente trabajo como **Desarrollador Backend**
+- 🔭 Actualmente trabajo como **Desarrollador en Vision por Computadora**
 
-- 🌱 Aprendiendo y trabajando con **PHP (CakePHP), Spring Boot, Django y APIs REST**
+- 🌱 Aprendiendo y desarrollando sistemas de visión por computadora en tiempo real: detección, tracking y despliegue**
 
 - 🏆 **2do lugar en el Concurso Nacional de Programación (Categoría Avanzada) – 2025**
 
-- 📫 Contáctame en **josueraymundo306@outlook.com**
+- 📫 Contáctame en **josueraymundo306@gmail.com**
 
 - ⚡ Dato curioso: Me apasiona resolver problemas con código limpio y eficiente 💻
 
@@ -37,7 +37,7 @@
 <!--Languages and Tools Section-->
 <h2 align="center">Lenguajes y Herramientas</h2>
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=java,php,c,python,mysql,spring,django,git,github,postman&perline=10" />
+<img width="500px" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,postgres,git,github,linux&perline=10" />
 </p>
 <br />
 
